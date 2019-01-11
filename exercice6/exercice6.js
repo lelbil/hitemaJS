@@ -1,0 +1,3 @@
+function getPromisesCountByState(promises) {
+
+}
